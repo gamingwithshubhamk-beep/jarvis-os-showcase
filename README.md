@@ -4,6 +4,9 @@
 
 J.A.R.V.I.S. (Voice-Activated Unified Logic Terminal) is an advanced desktop assistant transitioning into a proactive operating system companion. It is designed to bridge the gap between hardware automations and intelligent agent systems, running on a multi-threaded Python core with a high-fidelity Web HUD.
 
+📺 **Interactive Voice &amp; UI Demo**:
+![J.A.R.V.I.S. OS Demo](demo.gif)
+
 ---
 
 ## ⚙️ Architecture & Core Components
